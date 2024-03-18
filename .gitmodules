@@ -1,3 +1,9 @@
 [submodule "lab_b_line_follower"]
 	path = lab_b_line_follower
 	url = https://github.com/Intro-Robotics-UChicago-Spring-2024/lab_b_line_follower
+[submodule "lab_e_traffic_bot"]
+	path = lab_e_traffic_bot
+	url = https://github.com/Intro-Robotics-UChicago-Spring-2024/lab_e_traffic_bot
+[submodule "class_meeting_10_cat_recognition"]
+	path = class_meeting_10_cat_recognition
+	url = https://github.com/Intro-Robotics-UChicago-Spring-2024/class_meeting_10_cat_recognition
